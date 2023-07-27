@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tivivui95
 - 👀 I’m interested in Data Science, especially with Computer Vision.
-- ✨ I'm currently working with Tensorflow, Pytorch in Python, a little bit of React Native and NodeJs.
+- ✨ I'm currently working with Tensorflow, Pytorch in Python.
 - 🌱 I’m currently learning Data Science at HCMUS
 - 📫 How to reach me: fb.com/nmv.lhp
 - 📞 Contact me: (+84) 398135960. 
